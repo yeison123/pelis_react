@@ -1,0 +1,76 @@
+{
+    "Search": [
+      {
+        "Title": "Catch Me If You Can",
+        "Year": "2002",
+        "imdbID": "tt0264464",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg"
+      },
+      {
+        "Title": "Can You Ever Forgive Me?",
+        "Year": "2018",
+        "imdbID": "tt4595882",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ0YmU1YzktMTFmYi00YzNjLWFjNmItNTIwMThkNjdmYmIyXkEyXkFqcGc@._V1_SX300.jpg"
+      },
+      {
+        "Title": "You Can Count on Me",
+        "Year": "2000",
+        "imdbID": "tt0203230",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTNmZGNkODUtZWZhMi00NGMwLWEzZWMtNTEzNzU3ZmUxNWZmXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Evangelion: 2.0 You Can (Not) Advance",
+        "Year": "2009",
+        "imdbID": "tt0860906",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODk2YzFlYWQtYjVlNS00MzI3LTk3NjMtYmY0OTNhMWQwZTE3XkEyXkFqcGc@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Heaven Can Wait",
+        "Year": "1978",
+        "imdbID": "tt0077663",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BN2NlOGI1YTMtZjk3My00YWY4LWE2ZGUtNzA2Y2E1ZjU0ZTZmXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Can You Keep a Secret?",
+        "Year": "2019",
+        "imdbID": "tt8707922",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzZhM2M1MTEtMjg0Yi00ZTIzLTljYWYtZGQwMmNkZjkyNzY1XkEyXkFqcGc@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Any Which Way You Can",
+        "Year": "1980",
+        "imdbID": "tt0080377",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTUzYmIxM2YtYjBkZC00M2FiLTllMGQtOTQ5N2UzMzc2YTAzL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Turtles Can Fly",
+        "Year": "2004",
+        "imdbID": "tt0424227",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDU4MmU2MjAtYjI3ZC00MDhkLThhZTMtMmFkZWJmMTU2YjFhXkEyXkFqcGc@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Evangelion: 3.0 You Can (Not) Redo",
+        "Year": "2012",
+        "imdbID": "tt0860907",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjI5Zjg0MDItODc5Yi00NzM4LWFmYzctOTg4ZDZiYmZkYjdiXkEyXkFqcGdeQXVyNTkwNzYyODM@._V1_SX300.jpg"
+      },
+      {
+        "Title": "I Can Only Imagine",
+        "Year": "2018",
+        "imdbID": "tt6450186",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTRjNDc5NTAtZGJlYS00NTg4LTk2NTEtNGUwY2NiZWM3YTY2XkEyXkFqcGdeQXVyNTQ3MjE4NTU@._V1_SX300.jpg"
+      }
+    ],
+    "totalResults": "2409",
+    "Response": "True"
+  }
