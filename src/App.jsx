@@ -25,7 +25,7 @@ function App() {
     setQuery(event.target.value)
   }
 
-    useEffect(()=>{
+    useEffect(()=>{ 
       if(query===''){
         setError('Campo de busqueda vacio')
         return
