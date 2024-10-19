@@ -12,7 +12,8 @@ dist
 dist-ssr
 *.local
 
-# Editor directories and files
+
+# Editor directories and files not used in production.
 .vscode/*
 !.vscode/extensions.json
 .idea
